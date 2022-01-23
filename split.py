@@ -6,7 +6,7 @@ import sys
 try:
     splitSize = sys.argv[1]
 except:
-    splitSize = "980"
+    splitSize = "48"
 
 dir = os.path.join(os.getcwd(), "source")
 
